@@ -27090,7 +27090,7 @@ var _stylesCss = require("./styles.css");
     name: "H\xe9ric Moura",
     title: "Photography, Web design, and Python Development",
     email: "heric.moura@unifesp.com",
-    gitHub: "hericmh",
+    gitHub: "hericmr",
     instagram: "heric.mr",
     linkedIn: "",
     medium: "",
