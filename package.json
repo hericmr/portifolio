@@ -1,9 +1,9 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Minha página de portifolio de desenhos e artigos",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "http://hericmr.github.io/portifolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
