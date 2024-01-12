@@ -27088,7 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "H\xe9ric Moura",
-    title: "Fot\xf3grafo,    web-designer e Desenvolvedor Python",
+    title: "Photography, Web design, and Python Development",
     email: "heric.moura@unifesp.com",
     gitHub: "hericmh",
     instagram: "heric.mr",
@@ -28535,7 +28535,7 @@ const Header = ()=>{
             display: "flex",
             justifyContent: "center",
             gap: "2rem",
-            background: "rgba(255,255,255,0.75)",
+            background: "rgba(255,255,255,0.35)",
             padding: "1rem",
             top: 0,
             width: "100%",
@@ -28759,9 +28759,9 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "A miseria da Ontologia \uD83C\uDF89",
+        description: "Artigo escrito com Angelo Galdino.",
+        url: "https://hericmr.github.io/miseria_da_ontologia/"
     },
     {
         title: "Web Development for Beginners",
